@@ -17,3 +17,36 @@ a {
     width: 30px;
     margin: 15px;
 }
+
+.navbar{ 
+    display:flex; 
+    justify-content:space-around;
+    background-color:black;
+} 
+
+.navIteams{ 
+    color:white;
+} 
+
+.footer{ 
+    display: flex; 
+    justify-content: space-around ; 
+} 
+.content-div{ 
+    display:flex;
+  height:100%;
+} 
+.header{ 
+    display: flex; 
+    justify-content: space-around;
+} 
+
+.main{ 
+    width:30%; 
+    background-color:purple;
+} 
+
+.content{ 
+    background-color: orange ;
+    width:70%;
+} 
