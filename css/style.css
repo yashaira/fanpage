@@ -35,6 +35,8 @@ a {
 .content-div{ 
     display:flex;
   height:100%;
+  width:100%;
+  background-color:#990000;
 } 
 .header{ 
     display: flex; 
@@ -42,11 +44,22 @@ a {
 } 
 
 .main{ 
-    width:30%; 
-    background-color:purple;
-} 
+    width:100%;
+}
 
 .content{ 
-    background-color: orange ;
+    background-color:#990000 ;
     width:70%;
+} 
+
+#nun{ 
+ border-radius:300px;
+ margin-left:500px;
+height:60% ;
+width:40% ;
+} 
+
+.thumbnail-image{ 
+    height:40%;
+    width:50%;
 } 
